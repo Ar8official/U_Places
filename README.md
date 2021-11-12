@@ -14,13 +14,8 @@
 ## ?? Table of Contents
 
 - [About](#about)
+- [Prerequisites](#prerequisites)
 - [Documentation](#documentation)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## ?? About <a name = "about"></a>
 
