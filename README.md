@@ -16,13 +16,13 @@
 ## About <a name = "about"></a>
 
 This is the Nodejs backend for the react and node fullstack app.
-React frontend code is available (here)[https://github.com/Ar8official/U-Places]
+React frontend code is available [here](https://github.com/Ar8official/U-Places)
 
 ## Prerequisites
 
 You will need to have [Nodejs](https://nodejs.org/en/) in your system.
 
-## ?? Documentation <a name = "documentation"></a>
+## Documentation <a name = "documentation"></a>
 
 ### JSON Objects returned by API:
 
