@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px src="favicon.png" alt="Project logo"></a>
-</p>
 
 <h3 align="center">Uplaces</h3>
 
@@ -11,13 +7,13 @@
 
 </div>
 
-## ?? Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Prerequisites](#prerequisites)
 - [Documentation](#documentation)
 
-## ?? About <a name = "about"></a>
+## About <a name = "about"></a>
 
 This is the Nodejs backend for the react and node fullstack app.
 React frontend code is available (here)[https://github.com/Ar8official/U-Places]
